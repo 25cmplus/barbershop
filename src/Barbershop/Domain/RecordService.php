@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Barbershop;
+namespace Barbershop\Domain;
 
 class RecordService
 {
