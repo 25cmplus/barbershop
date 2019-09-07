@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace Barbershop;
 
-class Client
+class RecordRequest
 {
 
 }
